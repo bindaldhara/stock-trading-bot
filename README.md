@@ -3,8 +3,7 @@
 ## Getting Started
 
 1. Clone the repository:
-   git clone <repository-link>
-
+   git clone https://github.com/bindaldhara/stock-trading-bot.git
 2. Navigate to the project directory:
    cd stock-trading-bot
 
